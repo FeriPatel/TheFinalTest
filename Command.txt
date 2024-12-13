@@ -1,0 +1,13 @@
+first I check the status so git status
+git add myFile.txt (this command will add the myfile.txt file)
+git status
+
+Question 4 :
+I add the folder Info in the git.
+git add Info
+git status
+
+Question 5:
+git config user.name 
+git config user.name "FeriPatel_INFO" //this command will change the name
+git config user.name 
