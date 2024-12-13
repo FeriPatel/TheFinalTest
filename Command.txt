@@ -11,3 +11,10 @@ Question 5:
 git config user.name 
 git config user.name "FeriPatel_INFO" //this command will change the name
 git config user.name 
+
+the things which I commit "I add some folder and subfolder and also files and then i addedd all the codes in the command.txt file."
+
+Question 6 : 
+I update myFile.txt with course name and code and then I did git status in git bash and I change something and because of that it comes in the red thing because I didn't add the file again.
+
+I learned to add the files, folders, add the codes in the files, and then add to the git bash. In the git bash, I learned some code like git add, git status, git username for change the username. 
